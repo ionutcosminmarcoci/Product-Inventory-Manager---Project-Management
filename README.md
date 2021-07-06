@@ -12,3 +12,9 @@ How to use:
 Admin Login:  username – admin / password – admin
 User Login:  username – user / password – user
 Seller Login:  username –seller / password – seller
+
+
+
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture1.png?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture2.png?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture3.png?raw=true)
