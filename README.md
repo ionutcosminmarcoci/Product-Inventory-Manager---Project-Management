@@ -15,6 +15,6 @@ Seller Login:  username –seller / password – seller
 
 
 
-![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture1.png?raw=true)
-![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture2.png?raw=true)
-![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture3.png?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture1.jpg?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture2.jpg?raw=true)
+![alt text](https://github.com/ionutcosminmarcoci/Product-Inventory-Manager---Project-Management/blob/main/Picture3.jpg?raw=true)
